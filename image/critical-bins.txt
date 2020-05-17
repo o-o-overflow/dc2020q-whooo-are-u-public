@@ -1,0 +1,16 @@
+awk
+cat
+chmod
+chown
+cp
+env
+find
+groups
+id
+killall
+ls
+mkdir
+rm
+sha256sum
+sleep
+xinetd
